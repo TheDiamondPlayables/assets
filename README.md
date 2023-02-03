@@ -14,4 +14,5 @@ Art stuff I use for my posts.
 # For those who've found this:
  - Keep this as a secret between us, kay? 
  - I'd have no problems when this inevitably gets revealed, this just makes it more valuable to those who've been able to discover this without anyone telling about it.
- - Also, don't use my graphics without asking me first. I know I'm bad at Art and no one would probably use this to make their posts look nice (apart from me), but still.
+ - Also, don't use my graphics without asking me first. 
+ - (I know I'm bad at Art and no one would probably use this to make their posts look nicer (apart from me), but still.)
