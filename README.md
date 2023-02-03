@@ -4,7 +4,7 @@ Art stuff I use for my posts.
 # Purpose
  - I custom-made and use a set of graphics to make my posts look nicer.
  - (My posts are on [PlanetMinecraft](https://www.planetminecraft.com/member/thediamondplayables/), go check it out and let me know what you think.)
- - They are stored here, mainly so I could update them and all sites using them will also have the updated graphics.
+ - They are stored here, mainly so I could update them and all sites using them (like, say, PlanetMinecraft) will also have the updated graphics.
  - (I'm bad at Art and I'm learning still, so the graphics will be improved over time)
 
 # Notes
