@@ -9,3 +9,8 @@ Art stuff I use for my posts.
 # Notes
  - This looks fuzzy - I didn't organize the filesystem before using it.
  - Was originally a test to see if updating the graphics works, and when it did, I just kinda roll with it.
+
+# For those who've found this:
+ - Keep this as a secret between us, kay? 
+ - Also, don't use my graphics without asking me first.
+ - I'd have no problems when this inevitably gets revealed, this just makes it more valuable to those who've been able to discover this without anyone telling about it.
