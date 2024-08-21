@@ -1,5 +1,5 @@
 # assets
-Art stuff I use for my posts.
+Art stuff I use for my posts. Moved to a new repo as this one is pretty disorganized, and I'm reworking everything anyway.
 
 # Purpose
  - I custom-made and use a set of graphics to make my posts look nicer.
